@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\Lekcii\Leckcii003\bin\Debug\net6.0\Leckcii003.exe
+C:\Users\Professional\Desktop\Lekcii\Leckcii003\bin\Debug\net6.0\Leckcii003.deps.json
+C:\Users\Professional\Desktop\Lekcii\Leckcii003\bin\Debug\net6.0\Leckcii003.runtimeconfig.json
+C:\Users\Professional\Desktop\Lekcii\Leckcii003\bin\Debug\net6.0\Leckcii003.dll
+C:\Users\Professional\Desktop\Lekcii\Leckcii003\bin\Debug\net6.0\Leckcii003.pdb
+C:\Users\Professional\Desktop\Lekcii\Leckcii003\obj\Debug\net6.0\Leckcii003.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\Lekcii\Leckcii003\obj\Debug\net6.0\Leckcii003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\Lekcii\Leckcii003\obj\Debug\net6.0\Leckcii003.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\Lekcii\Leckcii003\obj\Debug\net6.0\Leckcii003.AssemblyInfo.cs
+C:\Users\Professional\Desktop\Lekcii\Leckcii003\obj\Debug\net6.0\Leckcii003.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Lekcii\Leckcii003\obj\Debug\net6.0\Leckcii003.dll
+C:\Users\Professional\Desktop\Lekcii\Leckcii003\obj\Debug\net6.0\refint\Leckcii003.dll
+C:\Users\Professional\Desktop\Lekcii\Leckcii003\obj\Debug\net6.0\Leckcii003.pdb
+C:\Users\Professional\Desktop\Lekcii\Leckcii003\obj\Debug\net6.0\Leckcii003.genruntimeconfig.cache
+C:\Users\Professional\Desktop\Lekcii\Leckcii003\obj\Debug\net6.0\ref\Leckcii003.dll
